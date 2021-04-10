@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Moondream15</h1>
 
-<!--
-**Moondream15/Moondream15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Hello! My name is Myeongho! I am a university student based in Korea and I have a hobby of creating projects that can be useful. I'm still clumsy because I learned the programming language by self study.</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://hits.seeyoufarm.com" target="_blank"><img align="center" alt="Hits Badge" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoondream15&count_bg=%23FFA440&title_bg=%23353535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h1 align="center">Connect With Me 📬</h1>
+
+<p align="left">
+  <p align="center">
+    <a href="mailto:myeongho0105@gmail.com" target="_blank"><img align="center" alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myeongho0105@gmail.com" /></a>
+    <a href="https://blog.naver.com/myeongho123" target="_blank"><img align="center" alt="Blog Badge" src="http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/myeongho123" /></a>
+    <a href="https://discordapp.com/users/270521996503285761" target="_blank"><img align="center" alt="Discord Badge" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/270521996503285761" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100011407016231" target="_blank"><img align="center" alt="Facebook Badge" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100011407016231" /></a>
+  </p>
+</p>
+
+<br>
+
+<h1 align="center">Programming Languages 📜</h1>
+
+<p align="left">
+  <p align="center">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </p>
+</p>
+

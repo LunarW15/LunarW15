@@ -15,7 +15,6 @@
     <a href="mailto:myeongho0105@gmail.com" target="_blank"><img align="center" alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myeongho0105@gmail.com" /></a>
     <a href="https://blog.naver.com/myeongho123" target="_blank"><img align="center" alt="Blog Badge" src="http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/myeongho123" /></a>
     <a href="https://discordapp.com/users/270521996503285761" target="_blank"><img align="center" alt="Discord Badge" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/270521996503285761" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100011407016231" target="_blank"><img align="center" alt="Facebook Badge" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100011407016231" /></a>
   </p>
 </p>
 

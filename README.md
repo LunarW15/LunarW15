@@ -13,7 +13,6 @@
 <p align="left">
   <p align="center">
     <a href="https://discordapp.com/users/270521996503285761" target="_blank"><img align="center" alt="Discord Badge" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/270521996503285761" /></a>
-        <a href="https://www.facebook.com/profile.php?id=100011407016231" target="_blank"><img align="center" alt="Facebook Badge" src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza" /></a>
   </p>
 </p>
 

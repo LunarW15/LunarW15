@@ -1,4 +1,4 @@
-<h1 align="center">MarLuna15</h1>
+<h1 align="center">LunarW15</h1>
 
 <p align="center">Hello! My name is Myeongho! I am a university student based in Korea and I have a hobby of creating projects that can be useful. I'm still clumsy because I learned the programming language by self study.</p>
 
